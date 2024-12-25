@@ -10,4 +10,3 @@ but I plan to update this later.
 I interned at the Johns Hopkins Applied Physics Laboratory via the ASPIRE
 program, under the mentorship of Shane Donahue. In doing so, I learned
 Assembly, C/C++, Python and Go, working in Reverse Engineering and Cybersecurity.
-A poster of my work can be found [here](https://aspireshowcase.dunked.com/llm-guided-program-exploration-and-analysis-of-computer-security-challenges-by-albert-cao).
