@@ -1,6 +1,6 @@
 ---
-title: The Choice of Improvement
-desc: My thoughts on chains goals.
+title: On Goals 
+desc: My thoughts on goals and work.
 ---
 
 I'm currently reading *Sapiens* by Harari. I've found it to 
