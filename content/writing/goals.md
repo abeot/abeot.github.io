@@ -31,16 +31,16 @@ anxiety and a stronger feeling of being overwhelmed.
 The truth is, the promise of a better future is neither
 guaranteed, nor even based on much true evidence.
 The idea of pain today for the comfort of tomorrow used to be my
-way to justify the work that I put day in and dayout;
+way to justify the work that I put day in and day out;
 but recently I've realized how silly this idea is.[^1]
 
 School teaches us that hard work pays off. And the common
-misconception, or maybe even intential implication, is
+misconception, or maybe even intentional implication, is
 that we should focus on goals that satisfy us and
 use that to justify the effort, however burdensome
 and numbing, that is required. This is far from the truth,
-because once someone does secure that job, or retire
-themselves, then there is yet another objective to work
+because once someone does reach that goal,
+then there is yet another objective to work
 for, or an inevitable feeling of emptiness.
 
 None of this is meant to discourage those working towards
@@ -48,21 +48,24 @@ their goals; I think discipline is best learned this way,
 because realistically nothing can be fun doing all the time.
 I've made excuses for myself to take days off when I shouldn't have,
 and it only makes me feel worse the next day. Conversely,
-pushing myself to go even on the toughest days makes it 
+pushing myself to go further even on the toughest days makes it 
 more rewarding; that's what it takes to be a champion, anyways.
 
-Sooner or later however, the question of whether or not
+Sooner or later, the question of whether or not
 the work is fulfilling needs to be answered. Using competitions
 to motivate students, or athletes, can be a double-edged sword;
 perhaps the only reason they pursue their respective skill
 is due to the thrill of winning and putting in hours every day
-to see progress. On the other hand, it stimulates interest
+to see progress. That could be why many student athletes
+lose their interest of pursuing their sport once in college.
+On the other hand, it stimulates interest
 that can develop a normal kid to be one of the brightest
-cybersecurity researchers, or help someone find a bright future that they otherwise would not have found.
+cybersecurity researchers, or help someone find a bright 
+future that they otherwise would not have found.
 
 The last few days have helped me realize this. What I've
 been chasing this whole time is meaningless, if it'll all
-come to an end with a feeling of relief and a job being finished.
+come to an end with a feeling of relief and a task being checked off.
 
 Most of the time I try to reflect on my journey, I've
 always had it through the lens of hard work and success.
