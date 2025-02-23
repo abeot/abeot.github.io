@@ -8,8 +8,13 @@ Music:
 - I played cello (with Dr. Maxim Kozlov) until my freshman year of high school, due to conflicts with fencing
     - My favorite cello piece is Saint Saens Cello Concerto 1
 - Some artists I like include (in order of most recent to least recent): Lamp, SZA, Frank Ocean, Playboi Carti, Kendrick Lamar, Kanye West, Coldplay, Laufey, beabadoobee, keshi
-- My favorite song is Runaway (it'll always remind me of my grind for MOP), before that it was Cupid by FIFTY-FIFTY
+- My favorite song is White Ferrari, follow by Runaway (it'll always remind me of my grind for MOP); before that it was Cupid by FIFTY-FIFTY
 - I like to try out different music, but K-pop never stuck with me
+
+Reading:
+
+- I'm currently reading Sapiens by Yuval Noah Harari, which by far my favorite book so far
+- I also enjoyed reading Outliers (Gladwell), Catcher in the Rye (Salinger), and Perks of Being a Wallflower (Chbosky)
 
 Sports:
 
