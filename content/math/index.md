@@ -3,6 +3,16 @@ title: Math Resources
 desc: Some of my math resources for preparing for the AMC/AIME.
 ---
 
+**PSA**: I'm interested in starting running a few classes/program for
+mid/late AIME prep (which also helps for AMCs!). 
+The goal is to offer generous financial aid and flexible hours 
+for those interested in contests but may have barriers.
+If you would like to help with deciding what topics
+should be included, or have anything you want to see,
+please don't hesitate to contact me.
+
+
+
 This page is for any resources I have, and any advice I have for AMC 10/12 and AIME.
 
 I personally like [Evan Chen's OTIS](https://web.evanchen.cc/otis.html) for those 

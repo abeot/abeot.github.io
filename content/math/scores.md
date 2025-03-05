@@ -13,4 +13,4 @@ desc: My AMC scores from my past competitions
 
 10th grade: 150 on the 2023 AMC 10A, 135 on the AMC 10B, 11 on the 2024 AIME I, 23 on the 2024 JMO (JMO Honors, Top 50)
 
-11th grade: 135 on the 2024 AMC 12A, 129 on the AMC 12B
+11th grade: 135 on the 2024 AMC 12A, 129 on the AMC 12B, 10 on 2025 AIME I

@@ -13,7 +13,7 @@ Music:
 
 Reading:
 
-- I'm currently reading Sapiens by Yuval Noah Harari, which by far my favorite book so far
+- I'm currently reading Sapiens by Yuval Noah Harari, which is by far my favorite book so far
 - I also enjoyed reading Outliers (Gladwell), Catcher in the Rye (Salinger), and Perks of Being a Wallflower (Chbosky)
 
 Sports:
@@ -22,5 +22,3 @@ Sports:
 - I am an épée fencer and fence with DC Fencers Club
 - My favorite city for a fencing tournament is Salt Lake City, worst is Phoenix in the summer
 - I also enjoy watching basketball; my favorite player is Kyrie Irving, and my favorite team is the Dallas Mavs
-
-You can contact me at: albertcao100 [at] gmail [dot] com.

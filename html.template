@@ -13,11 +13,12 @@
 			<a class="nav nav-home" href="/">Albert Cao</a>
 			<a class="nav nav-link" href="/math">Math</a>
 			<a class="nav nav-link" href="/writing">Writing</a>
-			<a class="nav nav-link" href="/code">Code</a>
 		</nav>
 		<main>
 			<h1>$pagetitle$</h1>
 $body$
 		</main>
 	</body>
+    <footer>
+        <p>Email: albertcao100 [at] gmail [dot] com</p>
 </html>
