@@ -30,7 +30,7 @@ I didn't make USAMO. I missed the cutoff by 2 points.
 
 This is the third time that, in an odd-numbered year, I felt short of
 my goal by a miniscule amount. But it hurts so much more this time,
-because it is a forced end to my story, with non conclusion.
+because it is a forced end to my story, with no definitive conclusion.
 
 In seventh grade, I scored a 97.5 on the AMC 10A. The cutoff was 103.5; if 
 I just hadn't forgot a +1 in my equation, I would've made it.
@@ -49,15 +49,18 @@ I decided to do so, around March in freshman year, I knew it would be a sacrific
 But the full realization of what it means to *truly sacrifice*, for it to
 work out the way you didn't expect, has not hit until today.
 
-I could've continued fencing, and I felt as if math was not in my life,
+I could've continued fencing; sometimes I think that if math was not in my life,
 fencing would have consumed me. Yet instead of choosing the path of a recruited
 athlete, I made the decision to instead become a MOPper; part of me just
 wanted to prove that it is not an opportunity locked away for a few
 select students who had the opportunity earlier on. I was close, but fell short.
 
 I don't believe the lessons I learned, about suppressing emotions, distractions,
-and immediate pleasures, will go to waste. A chapter might have ended, but another
-has started.
+and immediate pleasures, will go to waste. 
+I don't think the feeling of recognizing when you truly understand a problem 
+versus when you can only partially grasp it, will be useless. The skill
+of knowing when to ask for help, and what is the missing step, is crucial anywhere.
+A chapter might have ended, but another has started.
 
 What hurts the most is that now, all of that is a memory. It's not the present
 anymore, not a continuation. I've always hated looking back and reminiscing;
