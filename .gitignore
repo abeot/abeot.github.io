@@ -22,4 +22,4 @@ site.tar.gz
 *.synctex(busy)
 *.sol
 # This is all generated
-*.pdf
+# *.pdf
