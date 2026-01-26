@@ -6,15 +6,21 @@ echo "Building site..."
 make clean 2>/dev/null || true
 make all
 
-# Save the build directory
+# Save the build directory to temp location
 echo "Preparing deployment..."
+rm -rf /tmp/gh-pages-build
 cp -r build /tmp/gh-pages-build
+
+# Remove local build folder before switching branches
+rm -rf build
 
 # Switch to gh-pages branch
 git checkout gh-pages
 
-# Remove old files and copy new build
-git rm -rf . 2>/dev/null || true
+# Remove all files (except .git)
+find . -maxdepth 1 ! -name '.git' ! -name '.' -exec rm -rf {} +
+
+# Copy new build contents
 cp -r /tmp/gh-pages-build/* .
 rm -rf /tmp/gh-pages-build
 
