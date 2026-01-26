@@ -1,0 +1,25 @@
+build/
+site.tar.gz
+*.DS_Store
+
+#####
+#TEX#
+#####
+
+*.asy
+*.dvi
+*.eps
+*.toc
+*.out
+*.synctex.gz
+*.xwm
+*.log
+*.aux
+*.fdb_latexmk
+*.fls
+*.pre
+*.synctex
+*.synctex(busy)
+*.sol
+# This is all generated
+*.pdf
