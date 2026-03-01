@@ -5,9 +5,6 @@ desc: A collection of posts I've written.
 
 ## Lists 
 
-- [Book List](books.html) (Last updated January 25, 2026)
-- [Boba Rankings](boba.html) (Last updated January 25, 2026)
-
 ## Math and CS
 
 These handouts are indefinitely drafts; any suggestions are welcome!
