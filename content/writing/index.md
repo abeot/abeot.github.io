@@ -3,8 +3,6 @@ title: Writing
 desc: A collection of posts I've written.
 ---
 
-## Lists 
-
 ## Math and CS
 
 These handouts are indefinitely drafts; any suggestions are welcome!
@@ -14,6 +12,7 @@ Special thanks to Evan Chen, whose
 - [Extra Lemmas in Olympiad Geometry](/geolemmas.pdf)
 - [Range Sum](/rangesum.pdf)
 - [AIME Combinatorics Topics](/aimecombo.pdf)
+- [Arrows](/arrows.pdf)
 
 ## Miscellaneous
 
