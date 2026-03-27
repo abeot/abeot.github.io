@@ -13,3 +13,6 @@ implementing mathematical solutions.
 You can [learn more about me](personal.html), or 
 [read more about what I'm doing now](now.html).
 
+This website was built using Pandoc to generate HTML from Markdown,
+and PicoCSS. Special thanks to [Dennis Chen](https://dennisc.net/), 
+who's website I took inspiration from.
