@@ -15,7 +15,7 @@ here's the list (places that I recommend):
 5. Nan Xiang Soup Dumplings, Flushing, NYC. Some really good and chewy soup dumplings, also the price isn't bad.
 6. Frank Pepe Pizzeria, New Haven, CT. Apizza is great and this tasted really good; definitely like the clam.
 12. NY Pizza Suprema. Tastes a lot more like classic NY Pizza then John's, and has all the flavor too.
-7. Chadol Korean BBQ, Rockville, MD. KBBQ that actually leaves you feeling really good and the meat is flavorful and tender. Even served us some high quality Kalbi when I went for free.
+7. Chadol Korean BBQ, Rockville, MD. KBBQ that actually leaves you feeling really good and the meat is flavorful and tender. Even served us some high quality Kalbi for free when I went.
 8. Falafel Inc, Georgetown, DC. Great cheap eats and it's food that feels good to eat yet tastes good the same time.
 9. Bites of Xian 32, KTown, NYC. Made me love Xi'an food, especially like the noodles with lamb and the chinese burgers (roujiamou).
 10. LOS TACOS No. 1. Quite a tourist attraction but it is really fresh tasting taco. 
