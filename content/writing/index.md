@@ -3,6 +3,10 @@ title: Writing
 desc: A collection of posts I've written.
 ---
 
+## Lists
+
+- [Beli rankings](eats.html)
+
 ## Math and CS
 
 These handouts are indefinitely drafts; any suggestions are welcome!

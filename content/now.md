@@ -12,6 +12,3 @@ Currently not sure where I'll be attending college.
 Right now, the most interesting project I'm working on is for
 an internship with [Axilon](https://axilon.com/).
 
-**What I'm reading**:
-Currently, *Great Expectations* by Charles Dickens.
-
