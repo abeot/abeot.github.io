@@ -3,7 +3,7 @@ title: Albert Cao's Website
 desc: Homepage of Albert Cao's website.
 ---
 
-Hello! I'm Albert Cao, and I'm currently a senior Centennial High School.
+Hello! I'm Albert Cao, and I'm currently an incoming freshman at Harvard. 
 
 Currently, my academic interests lie in math and computer science,
 where I used to be very involved in olympiads and competitions.
